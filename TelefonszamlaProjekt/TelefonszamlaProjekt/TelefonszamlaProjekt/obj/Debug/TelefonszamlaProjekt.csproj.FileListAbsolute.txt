@@ -1,0 +1,7 @@
+C:\Users\minda\OneDrive\Asztali gép\TelefonszamlaProjekt\TelefonszamlaProjekt\TelefonszamlaProjekt\bin\Debug\TelefonszamlaProjekt.exe.config
+C:\Users\minda\OneDrive\Asztali gép\TelefonszamlaProjekt\TelefonszamlaProjekt\TelefonszamlaProjekt\bin\Debug\TelefonszamlaProjekt.exe
+C:\Users\minda\OneDrive\Asztali gép\TelefonszamlaProjekt\TelefonszamlaProjekt\TelefonszamlaProjekt\bin\Debug\TelefonszamlaProjekt.pdb
+C:\Users\minda\OneDrive\Asztali gép\TelefonszamlaProjekt\TelefonszamlaProjekt\TelefonszamlaProjekt\obj\Debug\TelefonszamlaProjekt.csproj.AssemblyReference.cache
+C:\Users\minda\OneDrive\Asztali gép\TelefonszamlaProjekt\TelefonszamlaProjekt\TelefonszamlaProjekt\obj\Debug\TelefonszamlaProjekt.csproj.CoreCompileInputs.cache
+C:\Users\minda\OneDrive\Asztali gép\TelefonszamlaProjekt\TelefonszamlaProjekt\TelefonszamlaProjekt\obj\Debug\TelefonszamlaProjekt.exe
+C:\Users\minda\OneDrive\Asztali gép\TelefonszamlaProjekt\TelefonszamlaProjekt\TelefonszamlaProjekt\obj\Debug\TelefonszamlaProjekt.pdb
